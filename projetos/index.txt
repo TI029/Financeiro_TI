@@ -1,0 +1,12 @@
+instalar a maquina virtual para isolar tudo que for feito, 
+com o VENV 
+
+Comandos: 
+
+1 python -m venv venv
+
+2 para ativa os pacotes intsalados de outro projeto é só da esse comando  
+
+pip install -r riquirements.txt
+
+após isso istalar as bibliotecas.
